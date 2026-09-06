@@ -8,7 +8,8 @@ lyong-web-dev-2026-1/
 ├── .gitignore          # Игнорируемые файлы для Git
 ├── .htmlhintrc         # Конфигурация HTMLHint
 ├── eslint.config.mjs   # Конфигурация ESLint
-├── package.json        # Зависимости проекта
+├── package.json        # Управление зависимостями и скриптами
+├── package-lock.json   # Фиксация точных версий зависимостей
 ├── lab1/               # Лабораторная работа №1
 │   ├── lab1.html       # Основной HTML-файл
 │   ├── lab1.css        # Файл со стилями CSS
